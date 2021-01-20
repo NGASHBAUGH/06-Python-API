@@ -1,4 +1,4 @@
-# Python API Homework - Completed for UC Davis's data analytics and visualization Bootcamp
+# Python API Challenge - Completed for UC Davis's data analytics and visualization Bootcamp
 
 
 ## Background
