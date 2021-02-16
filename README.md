@@ -1,6 +1,6 @@
 # Python API Challenge 
 
-In this repository weather data was pulled around the data to find out if there is a correlation between temperature, humidity, wind speed and latitude. The data was first cleaned then multiple graphs were created. Some of the graphs that were generated can be found below. 
+In this repository weather data was pulled from an API which houses weather from around the world. The Data was used to find out if there is a correlation between temperature, humidity, wind speed and latitude. The data was first cleaned then multiple graphs were created. Some of the graphs that were generated can be found below. 
 
 It was found that there is a high correlation between max temperature and latitude, as you get closer to 0 there is a high probability that the max temperature will be higher. There is no correlation between wind speeds and latitude, the correlation coefficient is far too low to show any correlation
 
